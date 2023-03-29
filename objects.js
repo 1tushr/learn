@@ -4,7 +4,10 @@ let th=Object.entries(gh);
 th.forEach(element => {
     console.log(element[0],element[1]);
 });
-console.log()
+console.log();
 console.log(th);
+
+
+
 
 
